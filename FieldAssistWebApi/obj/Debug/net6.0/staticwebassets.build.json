@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6+6kAoaUbVVTEymfTu3Y9gBcw8Is1iRIgvkEPzfhiws=",
+  "Source": "FieldAssistWebApi",
+  "BasePath": "_content/FieldAssistWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
